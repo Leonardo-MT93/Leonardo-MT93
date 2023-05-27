@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi 👋, I'm Leonardo Tolaba</b></h1>
+		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Leonardo Tolaba</b></h1>
 		<h3>Web Developer</h3>
 
 </div>
