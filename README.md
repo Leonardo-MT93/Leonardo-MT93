@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-    <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
 		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi 👋, I'm Leonardo Tolaba</b></h1>
 		<h3>Web Developer</h3>
 
