@@ -1,6 +1,6 @@
 
 <div align="center" style="margin-bottom:4rem;" id="header">
-	<img src"https://user-images.githubusercontent.com/78236356/241816569-952e670f-70eb-47c8-89c0-aa715f9188a4.png" width="500px"/>
+	<img src="https://user-images.githubusercontent.com/78236356/241816569-952e670f-70eb-47c8-89c0-aa715f9188a4.png" width="500px"/>
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/leonardo-manuel-tolaba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
