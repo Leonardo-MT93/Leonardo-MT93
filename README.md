@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:4rem;" id="header">
-	<img style="height:8rem;width:8rem;" src="./assets/Avatar-Computer.png" alt="Avatr of me with an Apple Computer"/>
+	[<img style="height:8rem;width:8rem;" src="./assets/Avatar-Computer.png" alt="Avatr of me with an Apple Computer"/>](https://user-images.githubusercontent.com/78236356/241816569-952e670f-70eb-47c8-89c0-aa715f9188a4.png)
 
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/leonardo-manuel-tolaba/">
