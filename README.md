@@ -1,5 +1,6 @@
-![new universe](https://github.com/Leonardo-MT93/Leonardo-MT93/assets/78236356/952e670f-70eb-47c8-89c0-aa715f9188a4)
+
 <div align="center" style="margin-bottom:4rem;" id="header">
+	![new universe](https://github.com/Leonardo-MT93/Leonardo-MT93/assets/78236356/952e670f-70eb-47c8-89c0-aa715f9188a4)
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/leonardo-manuel-tolaba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
