@@ -19,7 +19,7 @@
 
 - 💬 I focus in **Nextjs, React, Nodejs, Docker, MongoDB, CSS**
 
-- 🌱 I'm currently learning **Nextjs**
+- 🌱 I'm currently learning Python 🐍
 
 - ✉️ How to reach me ... https://portfolio-2023-nextjs.vercel.app/en
 
